@@ -2,6 +2,8 @@
 
 Master's degree group project involving the design, deployment, and automation of a complete Capture The Flag (CTF) environment.
 
+Due to university repository access restrictions, infrastructure code, Ansible playbooks, and deployment scripts cannot be publicly disclosed. This repository focuses on the project's architecture, documentation, vulnerability research, and design decisions.
+
 ## Objectives
 
 - Design a realistic enterprise network.
