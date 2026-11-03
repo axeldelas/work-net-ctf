@@ -1,10 +1,12 @@
-## Overview
+# Network Enterprise CTF
+
+## 📖 Overview
 
 Master's degree group project involving the design, deployment, and automation of a complete Capture The Flag (CTF) environment.
 
 Due to university repository access restrictions, infrastructure code, Ansible playbooks, and deployment scripts cannot be publicly disclosed. This repository focuses on the project's architecture, documentation, vulnerability research, and design decisions.
 
-## Objectives
+## 🎯 Objectives
 
 - Design a realistic enterprise network.
 - Deploy and automate infrastructure using Ansible.
@@ -12,7 +14,7 @@ Due to university repository access restrictions, infrastructure code, Ansible p
 - Document exploitation paths.
 - Validate end-to-end network connectivity and services.
 
-## Technologies
+## 🛠️ Technologies
 
 - Kali Linux
 - Virtual Machines (VMs)
@@ -22,7 +24,7 @@ Due to university repository access restrictions, infrastructure code, Ansible p
 - VLANs
 - Ansible
 
-## Security Topics
+## 🔐 Security Topics
 
 - Network Enumeration (Nmap)
 - SQL Injection
@@ -31,7 +33,7 @@ Due to university repository access restrictions, infrastructure code, Ansible p
 - Bruteforce
 - Password Cracking
 
-## My Contributions
+## 👨‍💻 My Contributions
 
 - Network architecture design
 - Vulnerability research and implementation
@@ -40,6 +42,6 @@ Due to university repository access restrictions, infrastructure code, Ansible p
 - Challenge documentation
 - Team collaboration
 
-## Documentation
+## 📚 Documentation
 
 Additional project documentation is available in the `/docs` folder.
