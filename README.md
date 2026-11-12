@@ -2,27 +2,35 @@
 
 ## :book: Overview
 
-Master's degree group project involving the design, deployment, and automation of a complete Capture The Flag (CTF) environment.
+Implementation of a realistic enterprise Capture The Flag (CTF) environment featuring network segmentation, Active Directory, vulnerable services, attack scenarios, and automated infrastructure deployment.
 
 Due to university repository access restrictions, infrastructure code, Ansible playbooks, and deployment scripts cannot be publicly disclosed. This repository focuses on the project's architecture, documentation, vulnerability research, and design decisions.
 
-## :dart: Objectives
+## :busts_in_silhouette: Contributors
 
-- Design a realistic enterprise network.
-- Deploy and automate infrastructure using Ansible.
-- Implement vulnerable services and attack scenarios.
-- Document exploitation paths.
-- Validate end-to-end network connectivity and services.
+This project was developed as part of a five-person team.
 
-## :hammer_and_wrench: Technologies
+My contributions included:
 
-- Kali Linux
-- Virtual Machines (VMs)
-- Active Directory (AD)
-- Web Server
-- FTP Server
-- VLANs
-- Ansible
+- Network segmentation, IP addressing, and VM architecture design.
+- VSFTPD backdoor (CVE-2011-2523) research and implementation.
+- Deployment of the vulnerable FTP server and attacker machine.
+- Routing and VM connectivity troubleshooting.
+- Technical reporting and challenge documentation.
+- Team collaboration within a 5-member project group.
+
+## :hammer_and_wrench: Skills Demonstrated
+
+- Network Architecture Design
+- Network Segmentation
+- IP Addressing Design
+- Active Directory
+- Infrastructure Deployment
+- Ansible Automation
+- Vulnerability Research
+- Troubleshooting
+- Technical Documentation
+- Team Collaboration
 
 ## :closed_lock_with_key: Security Topics
 
@@ -33,15 +41,6 @@ Due to university repository access restrictions, infrastructure code, Ansible p
 - Bruteforce
 - Password Cracking
 
-## :man_technologist: My Contributions
+## :raised_hands: Credits
 
-- Network segmentation, IP addressing, and VM architecture design.
-- VSFTPD backdoor (CVE-2011-2523) research and implementation.
-- Deployment of the vulnerable FTP server and attacker machine.
-- Routing and VM connectivity troubleshooting.
-- Technical reporting and challenge documentation.
-- Team collaboration within a 5-member project group.
-
-## :books: Documentation
-
-Additional project documentation is available in the `/docs` folder.
+Thank you for checking out our project!
